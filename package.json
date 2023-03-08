@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rex0747/vue-vuenaspracticas/issues"
   },
-  "homepage": "https://github.com/Rex0747/vue-vuenaspracticas#readme"
+  "homepage": "https://github.com/Rex0747/vue-vuenaspracticas#readme",
+  "dependencies": {
+    "vue": "^3.2.47"
+  }
 }
